@@ -1,0 +1,165 @@
+header{
+/*        background-color: #F0FFF0;*/
+        width: 95%;
+        border-style: solid;
+        border-width: 1px;
+        margin: 1% auto; 
+        border-radius:1em;
+        box-shadow: 6px 6px 15px #444;
+    }
+
+
+p{
+    text-align:center;
+ }
+
+#apresentacao{
+      margin : 1em;
+      border-style: solid;
+      border-width: 1px;
+      text-align:center;
+      border-radius: 5px;
+      background: #F0FFF0;
+      
+}
+.formularioBusca{
+    margin: 2em;
+}
+
+#lista{
+    margin: 2em;
+    
+}
+
+
+.descricao{
+	text-align: left;
+    
+	
+} 
+
+h1{
+    text-align:center;
+  }
+	
+
+.logo{
+        width: 150px;
+        display: block; 
+        margin: auto;
+     }
+     
+
+main{
+/*        background-color: #F0FFF0;*/
+        width: 95%; 
+        border-style: solid;
+        border-width: 1px;
+        margin: auto; 
+        border-radius:1em;
+        box-shadow: 6px 6px 15px #444;
+    }
+
+            
+ul {
+        list-style-type: none;
+        display:block;
+       
+        
+   }
+
+
+li {
+        display: inline-block;
+        padding: 0;
+        margin: 1em;
+        border-style: solid;
+        border-width: 1px;
+        
+	}
+
+dl.dados_pessoais {
+	               margin: 1em;
+	               padding: 0;
+	           }
+	
+
+.dados_pessoais dt {
+	               margin: 0;
+	               padding: 0;
+	               font-weight: bold;
+	            }
+	
+.dados_pessoais dd {
+	               margin: 0 0 1em 0;
+	               padding: 0;
+	            }
+
+figure{
+        margin-left: 5px;
+		margin-top: 2em;
+        margin-right: 5px;
+        
+   	  }
+
+#imagem{ border-radius: 5px;
+		      height:320px;
+		      width:240px;
+    
+}
+.thumbnails {
+    border-radius: 5px;
+		      height:80px;
+		      width:80px;
+}
+
+figure img {
+		      border-radius: 5px;
+		      height:80px;
+		      width:80px;
+	       }
+            
+
+figcaption{
+            text-align:center;
+            border-style: solid;
+            border-width: 1px;
+            width: 80px;
+            margin-left: 0; 
+            margin-right: 5px;
+            border-radius: 5px;
+            margin-top: 0;
+         }
+ 
+
+figcaption:hover{
+                    background-color: black;
+                    font-weight: bold;
+                    color: white;
+                    border-color: white;
+                    transition: all 0.5s linear ;
+                    -moz-transition: all 0.5s linear ;
+                    -webkit-transition: all 0.5s linear ;
+                }
+            
+
+a {
+    text-decoration: none;
+    color: #444;  
+  }
+           
+            
+#dados{
+       margin: 2em;
+      }
+
+
+footer{
+/*          background-color: #F0FFF0;*/
+          width: 95%; 
+          border-style: solid;
+          border-width: 1px;
+          margin:  1% auto; 
+          border-radius:1em;
+          box-shadow: 6px 6px 15px #444;
+}
