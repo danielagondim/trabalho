@@ -1,9 +1,9 @@
 <?php
+require_once("./authSession.php");
 include_once("cabecalho.php");
 include 'confBD.php';
-echo '<div id="lista">';
-echo '<div class="row">';
-echo '<div class="col-md-9">';
+
+
 
 
 try
@@ -69,8 +69,4 @@ catch (PDOException $e)
     echo "Erro!: " . $e->getMessage() . "<br>";
     die();
 }
-echo'</div>';
-echo'</div>';
-echo'</div>';
-
-include_once("rodape.php");
+include_once("cabecalho.php");
