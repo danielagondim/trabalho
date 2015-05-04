@@ -1,11 +1,11 @@
 <?php
  function conn_mysql(){
 
-   $servidor = 'localhost';
+   $servidor = '//${env.OPENSHIFT_MYSQL_DB_HOST}:${env.OPENSHIFT_MYSQL_DB_PORT}';
    $porta = 3306;
-   $banco = "daw_yearbook";
-   $usuario = "root";
-   $senha = "1234";
+   $banco = "danielagondim";
+   $usuario = "adminsPbyDMf";
+   $senha = "utbCC8MTb-kW";
    
       $conn = new PDO("mysql:host=$servidor;
 	                   port=$porta;
