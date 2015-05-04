@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
         <title>
-            POS GRADUACAO - ATIVIDADE 5 
+            POS GRADUACAO - DANIELA
         </title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width">
@@ -75,7 +75,7 @@
         <header>
             <p>
                 <img src="fotos/logo_puc_minas_virtual.jpg" alt="logo" class= "logo"/>
-                Pós-Graduação - Desenvolvimento de Aplicações Web		
+                Pós-Graduação - Desenvolvimento de Aplicações Web - DANIELA GONDIM		
             </p>
             <h1>
                 YEARBOOK
