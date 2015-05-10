@@ -1,16 +1,17 @@
+
 <?php
  function conn_mysql(){
 
    
-$servidor = '$sr1fm16sth.database.windows.net
+$servidor = 'us-cdbr-azure-northcentral-a.cleardb.com
 '   
-$porta = 1433;
+$porta = 3306;
    
-$banco = "bancodani"
+$banco = "bancodadosdani"
    
-$usuario = "daniela";
+$usuario = "beef55aa7ed688";
    
-$senha = "dani#2015"
+$senha = "a45c64a5"
       
 $conn = new PDO("sqlsrv:server=$servidor;
 	                   
@@ -28,4 +29,3 @@ $conn = new PDO("sqlsrv:server=$servidor;
 return $conn;
    }
 ?>
-
