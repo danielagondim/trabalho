@@ -5,7 +5,7 @@
    
 $servidor = 'us-cdbr-azure-northcentral-a.cleardb.com';
      
-$porta = 3306;
+$porta = "3306";
    
 $banco = "bancodadosdani";
    
