@@ -15,7 +15,7 @@ $senha = "a45c64a5";
       
 $conn = new PDO("sqlsrv:server=$servidor;
 	                   
-		 port=$porta;
+		
 					   
 		 dbname=$banco", 
 					   
