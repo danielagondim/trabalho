@@ -3,15 +3,15 @@
  function conn_mysql(){
 
    
-$servidor = 'us-cdbr-azure-northcentral-a.cleardb.com
-'   
+$servidor = "us-cdbr-azure-northcentral-a.cleardb.com";
+     
 $porta = 3306;
    
-$banco = "bancodadosdani"
+$banco = "bancodadosdani";
    
 $usuario = "beef55aa7ed688";
    
-$senha = "a45c64a5"
+$senha = "a45c64a5";
       
 $conn = new PDO("sqlsrv:server=$servidor;
 	                   
