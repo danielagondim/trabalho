@@ -5,7 +5,7 @@
    
 $servidor = 'us-cdbr-azure-northcentral-a.cleardb.com';
      
-$porta = 3306;
+$porta = 1433;
    
 $banco = "bancodadosdani";
    
@@ -29,3 +29,6 @@ $conn = new PDO("sqlsrv:server=$servidor;
 return $conn;
    }
 ?>
+
+
+$dsn = 'sqlsrv:Server=servername,1433;Database=database_name';
