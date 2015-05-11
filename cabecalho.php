@@ -75,7 +75,7 @@
         <header>
             <p>
                 <img src="fotos/logo_puc_minas_virtual.jpg" alt="logo" class= "logo"/>
-                Pós-Graduação - Desenvolvimento de Aplicações Web - DANIELA GONDIM		
+                Pós-Graduação - Desenvolvimento de Aplicações Web na Nuvem - DANIELA GONDIM		
             </p>
             <h1>
                 YEARBOOK
