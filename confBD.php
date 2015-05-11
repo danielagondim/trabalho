@@ -31,4 +31,4 @@ return $conn;
 ?>
 
 
-$dsn = 'sqlsrv:Server=servername,1433;Database=database_name';
+
