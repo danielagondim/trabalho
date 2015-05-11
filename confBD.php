@@ -3,7 +3,7 @@
  function conn_mysql(){
 
    
-$servidor = "us-cdbr-azure-northcentral-a.cleardb.com";
+$servidor = 'us-cdbr-azure-northcentral-a.cleardb.com';
      
 $porta = 3306;
    
